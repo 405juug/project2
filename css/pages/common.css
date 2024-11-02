@@ -1,0 +1,24 @@
+[class*="__container"]{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main{
+    margin: 1 1 auto;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    padding: 0 24px;
+}
+
+.wrapper{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}

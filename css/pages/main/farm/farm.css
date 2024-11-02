@@ -1,0 +1,11 @@
+.farm{
+    background-image: url(/images/main/backgroundg.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.farm__text{
+    min-height: 500px;
+}
+
